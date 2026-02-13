@@ -1,0 +1,34 @@
+Query: (site:trabalhabrasil.com.br OR site:infojobs.com.br OR site:vagas.com.br) curriculo "vendedor"
+
+[1] Vendedor Curriculo - Criador de Curriculum Online
+URL: https://www.bing.com/aclick?ld=e8OvoOCm7WeqCyiEjkA_ZxLzVUCUz2JEcUAYHFIe3DdLqkzQ1tBaIVhaenYF5hUlo9qKowZn6A8FJHSfMlP9ExkH5BWC0fpgltCJXuGYxjpLARhZX1A9GhIgofV_674RgKEAZVEvFFcSfUHqvzlHjtocRKc21e_CwQWcFb4Ra6kpdjSe3dua5l393DeDlUzTonBPZV26sEVjhVdM-s_glG5RTcFWE&u=aHR0cHMlM2ElMmYlMmZ3d3cuam9ic2Vla2VyLmNvbSUyZnB0JTNmdGl0bGUlM2RDcmllJTJidW0lMmJDdXJyJWMzJWFkY3VsbyUyYmRlJTJiVmVuZGVkb3IlMjZtc2Nsa2lkJTNkOGFkODllMTQyMTUwMWI0ODEzNTVmNzliNjcyOWMxZDclMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QwMiUyNTIwJTI1N0MlMjUyMFBULUJSJTI1MjAlMjU3QyUyNTIwSm9icyUyNnV0bV90ZXJtJTNkdmVuZGVkb3IlMjUyMGN1cnJpY3VsbyUyNnV0bV9jb250ZW50JTNkdmVuZGVkb3IlMjUyMGN2&rlid=8ad89e1421501b481355f79b6729c1d7
+Status: REJECTED (Invalid URL)
+----------------------------------------
+[2] Vagas de Emprego de Comercial, Vendas - Infojobs
+URL: https://www.infojobs.com.br/empregos-de-comercial-vendas.aspx
+Status: REJECTED (Invalid URL, Job Posting)
+----------------------------------------
+[3] Vagas de Emprego Grátis | Infojobs
+URL: https://www.infojobs.com.br/
+Status: REJECTED (Invalid URL, Job Posting)
+----------------------------------------
+[4] Vagas de Emprego de Vendedor - Infojobs
+URL: https://www.infojobs.com.br/vagas-de-vendedor.aspx
+Status: REJECTED (Invalid URL, Job Posting)
+----------------------------------------
+[5] Como criar currículo de vendedor: passo a passo completo
+URL: https://profissoes.vagas.com.br/curriculo-de-vendedor/
+Status: REJECTED (Invalid URL, Job Posting)
+----------------------------------------
+[6] Vagas de Emprego de Vendedor Home office - Infojobs
+URL: https://www.infojobs.com.br/vagas-de-vendedor-trabalho-home-office.aspx
+Status: REJECTED (Invalid URL, Job Posting)
+----------------------------------------
+[7] Vendedor Comercial SDR - 1022
+URL: https://rhfsantosesudeste.pandape.infojobs.com.br/Detail/2962880
+Status: REJECTED (Invalid URL)
+----------------------------------------
+[8] Vagas de Emprego de Vendedor em São Paulo - SP | Infojobs
+URL: https://www.infojobs.com.br/vagas-de-vendedor-em-sao-paulo,-sp.aspx
+Status: REJECTED (Invalid URL, Job Posting)
+----------------------------------------
