@@ -7,7 +7,7 @@ import time
 import warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 
 # Global Site Configuration (Legacy + New Modes)
 # "base": The search operator
