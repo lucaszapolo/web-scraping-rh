@@ -1,5 +1,6 @@
 duckduckgo-search>=5.0.0
 beautifulsoup4
-pandas
-streamlit
+pandas>=2.0.0
+streamlit>=1.41.0
+altair<6
 openpyxl
